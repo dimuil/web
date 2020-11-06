@@ -1,0 +1,23 @@
+body { 
+	font-style: italic;
+	font-size: 30pt; 
+	background-color: #f2f5f9; 
+	color: #333; 
+   background-size: 100%; 
+	background-size: cover;
+ }
+
+ h1.style {
+ 	margin: 0 auto;
+	color: black; 
+	font-size: 40pt; 
+	font-style: italic;
+	font-weight: bold; 
+ }
+ p.Text{
+	 font-style: italic;
+	 font-size: 30pt;
+	 font-weight: bold;
+	 margin-right: 10%; 
+    margin-left: 10%; 
+ }
